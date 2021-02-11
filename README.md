@@ -1,6 +1,6 @@
 # Meus jogos autorais  
 
-   <img align="right" src="https://octodex.github.com/images/megacat.jpg" width="200">
+   <img align="right" src="https://octodex.github.com/images/jetpacktocat.png" width="200">
    
    ### Seja muito bem-vindo(a)!   
    
@@ -13,7 +13,7 @@
     
     
    &nbsp;
-   <img align = "right" src = "https://octodex.github.com/images/collabocats.jpg" width = "200">
+   <img align = "right" src = "https://octodex.github.com/images/benevocats.png" width = "200">
    
    
    &nbsp;
