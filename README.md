@@ -1,4 +1,4 @@
-# Meus jogos autorais  
+# Jogo da velha
 
    <img align="right" src="https://octodex.github.com/images/jetpacktocat.png" width="200">
    
@@ -7,7 +7,7 @@
    
   &nbsp;
   
-   Neste repositório irei colocar alguns projetos de jogos! Espero esse 
+   Neste repositório coloquei um projeto de Jogo da velha que eu mesmo fiz para aplicar meus conhecimentos em JAVA! Espero esse 
    material contribua no seu aprendizado ou esclarecimento de possíveis dúvidas!
    * Jogo da velha -> [Jogue](https://ff726c66-8b2b-4f20-94da-607cf883e586.ws-us02.gitpod.io/#/workspace/Jogos) / [Código-Fonte](https://github.com/LucasFernandesBrazil/Jogos/blob/main/JogoDaVelha/JogoDaVelha.java)
     
